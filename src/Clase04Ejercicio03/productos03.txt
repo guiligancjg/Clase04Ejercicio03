@@ -1,0 +1,3 @@
+Yogur Batido;140;2
+Caballa al Natural;110;1
+Galletitas Dulces;300.1;2

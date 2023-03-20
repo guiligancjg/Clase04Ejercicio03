@@ -1,0 +1,3 @@
+Leche Larga Vida;40;1
+Acondicionador;10;3
+Alcohol en Gel;100;2
